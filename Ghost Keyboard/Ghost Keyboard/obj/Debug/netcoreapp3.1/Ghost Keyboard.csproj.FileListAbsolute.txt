@@ -1,0 +1,8 @@
+C:\Users\asus\OneDrive\Documents\cse material\sem 3\c++\projects\Project1\Ghost Keyboard\Ghost Keyboard\obj\Debug\netcoreapp3.1\Ghost_Keyboard.Form1.resources
+C:\Users\asus\OneDrive\Documents\cse material\sem 3\c++\projects\Project1\Ghost Keyboard\Ghost Keyboard\obj\Debug\netcoreapp3.1\Ghost_Keyboard.Properties.Resources.resources
+C:\Users\asus\OneDrive\Documents\cse material\sem 3\c++\projects\Project1\Ghost Keyboard\Ghost Keyboard\obj\Debug\netcoreapp3.1\Ghost Keyboard.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Documents\cse material\sem 3\c++\projects\Project1\Ghost Keyboard\Ghost Keyboard\obj\Debug\netcoreapp3.1\Ghost Keyboard.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Documents\cse material\sem 3\c++\projects\Project1\Ghost Keyboard\Ghost Keyboard\obj\Debug\netcoreapp3.1\Ghost Keyboard.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Documents\cse material\sem 3\c++\projects\Project1\Ghost Keyboard\Ghost Keyboard\obj\Debug\netcoreapp3.1\Ghost Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Documents\cse material\sem 3\c++\projects\Project1\Ghost Keyboard\Ghost Keyboard\obj\Debug\netcoreapp3.1\Ghost Keyboard.dll
+C:\Users\asus\OneDrive\Documents\cse material\sem 3\c++\projects\Project1\Ghost Keyboard\Ghost Keyboard\obj\Debug\netcoreapp3.1\Ghost Keyboard.pdb

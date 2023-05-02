@@ -1,0 +1,5 @@
+C:\Users\asus\OneDrive\Documents\cse material\sem 3\c++\projects\Project1\Ghost Keyboard\Ghost Keyboard\bin\Release\netcoreapp3.1\publish\Ghost Keyboard.exe
+C:\Users\asus\OneDrive\Documents\cse material\sem 3\c++\projects\Project1\Ghost Keyboard\Ghost Keyboard\bin\Release\netcoreapp3.1\publish\Ghost Keyboard.dll
+C:\Users\asus\OneDrive\Documents\cse material\sem 3\c++\projects\Project1\Ghost Keyboard\Ghost Keyboard\bin\Release\netcoreapp3.1\publish\Ghost Keyboard.deps.json
+C:\Users\asus\OneDrive\Documents\cse material\sem 3\c++\projects\Project1\Ghost Keyboard\Ghost Keyboard\bin\Release\netcoreapp3.1\publish\Ghost Keyboard.runtimeconfig.json
+C:\Users\asus\OneDrive\Documents\cse material\sem 3\c++\projects\Project1\Ghost Keyboard\Ghost Keyboard\bin\Release\netcoreapp3.1\publish\Ghost Keyboard.pdb
